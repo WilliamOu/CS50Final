@@ -1,0 +1,40 @@
+/*
+.left {
+    width: 48%;
+    float: left;
+}
+
+(Unused)
+
+.right {
+    width: 48%;
+    float: right;
+}
+*/
+
+.mainHeader {
+    font-family: Montserrat;
+    font-size: 32px;
+    line-height: 1.6;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.mainBody {
+    font-family: Montserrat;
+    font-size: 22px;
+    line-height: 1.6;
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.centeredElement {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
