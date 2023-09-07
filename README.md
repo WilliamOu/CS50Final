@@ -1,12 +1,23 @@
-My final project for CS50 is a Flask web application that, through Python,
-highlights sentences a different color depending on its length.
-My inspiration comes from a beautiful writing quote by Gary Provost,
-where he eloquently explains how varied sentence length can improve the quality of writing.
-Since I couldn't find a tool that highlighted sentences based on text length anywhere else,
-I decided to make it myself.
-Much like the original quote,
-the purpose of this website is to help improve the quality of writing by checking for sentence length variety,
-which can prevent writing from sounding boring or monotonous.
+“This sentence has five words. Here are five more words. 
+Five-word sentences are fine. But several together become monotonous. 
+Listen to what is happening. The writing is getting boring. 
+The sound of it drones. It’s like a stuck record. The ear demands some variety. 
+
+Now listen. I vary the sentence length, and I create music. Music.
+The writing sings. It has a pleasant rhythm, a lilt, a harmony.
+I use short sentences. And I use sentences of medium length. 
+And sometimes, when I am certain the reader is rested, I will engage him with a sentence of considerable length,
+a sentence that burns with energy and builds with all the impetus of a crescendo, 
+the roll of the drums, the crash of the cymbals–sounds that say listen to this, it is important.”
+- Gary Provost
+
+Deriving inspiration from this quote, my CS50 final is a Flask web application that,
+though Python, highlights sentences with different colors depending on their length.
+
+It's an incredibly useful tool, but I have to find an application that performs this function.
+Thus I decided to make it myself. Much like the original quote,
+the purpose of this website is to help improve the quality of writing by checking for sentence variety,
+to help break up sentences that sound either boring or monotonous.
 Oh, and the quote is displayed upon the website being launched, alongside a direct citation.
 
 I started the project by using week 9's lab, birthdays, as a Flask template,
